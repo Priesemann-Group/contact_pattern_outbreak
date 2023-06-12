@@ -2,20 +2,22 @@
 
 # Article
 - [arXiv.2109.12180](https://arxiv.org/abs/2109.12180)
-- [NJP]()
+- [NJP](https://dx.doi.org/10.1088/1367-2630/acd1a7)
 
 ```
-@misc{zierenberg_contact_patterns_2023,
-	title = {How contact patterns destabilize and modulate epidemic outbreaks},
-	url = {http://arxiv.org/abs/2109.12180},
-	doi = {10.48550/arXiv.2109.12180},
-	number = {{arXiv}:2109.12180},
-	publisher = {{arXiv}},
-	author = {Zierenberg, Johannes and Spitzner, F. Paul and Dehning, Jonas and Priesemann, Viola and Weigel, Martin and Wilczek, Michael},
-	date = {2023-05-03},
-	eprinttype = {arxiv},
-	eprint = {2109.12180},
+@article{zierenberg_how_2023,
+  title = {How Contact Patterns Destabilize and Modulate Epidemic Outbreaks},
+  author = {Zierenberg, Johannes and Spitzner, F. Paul and Dehning, Jonas and Priesemann, Viola and Weigel, Martin and Wilczek, Michael},
+  date = {2023-05},
+  journaltitle = {New Journal of Physics},
+  shortjournal = {New J. Phys.},
+  volume = {25},
+  pages = {053033},
+  issn = {1367-2630},
+  doi = {10.1088/1367-2630/acd1a7},
+  url = {https://dx.doi.org/10.1088/1367-2630/acd1a7},
 }
+
 ```
 
 # Data sources:
